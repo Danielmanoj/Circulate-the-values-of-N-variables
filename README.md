@@ -13,7 +13,9 @@ Get the value from the user for the number of rotation
 Using the slicing concept rotate the list
 
 ### Step 5: 
+Assign a variable for the new list after slicing and print the variable.
 ### Step 6: 
+ End of the program
 ## Program:
 ```
 #Program to circulate N values.
